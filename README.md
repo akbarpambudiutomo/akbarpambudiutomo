@@ -1,5 +1,6 @@
-<h1 align='center'> Assalamualaikum! 👋</h1>
-### Hi, I'm Akbar. a Software Enginer to focus anything in my work 😄
+###<h1 align='center'> Assalamualaikum! 👋</h1>
+
+Hi, I'm Akbar. a Software Enginer to focus anything in my work 😄
 
 <!--
 **akbarpambudiutomo/akbarpambudiutomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Tech Stack
+  <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://user-images.githubusercontent.com/57354058/192750042-ac8cef17-a461-424f-9905-fdd5ca8edd15.png" /></a>
+  <a href="https://www.php.net/"><img align="left" alt="Php" title="Php" width="21px" src="https://www.php.net/images/logos/new-php-logo.png" /></a>
+  <!--<a href="https://dart.dev/"><img align="left" alt="Dart" title="Dart" width="21px" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" /></a>-->
+  <br>
+  <br>
+  
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/akbarpambudiutomo">
