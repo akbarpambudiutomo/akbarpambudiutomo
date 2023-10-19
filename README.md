@@ -1,4 +1,4 @@
-###<h1 align='center'> Assalamualaikum! 👋</h1>
+<h1 align='center'> Assalamualaikum! 👋</h1>
 
 Hi, I'm Akbar. a Software Engineer to focus anything in my work office 😄
 
@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Tech Stack
+<p align="center">
   <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://user-images.githubusercontent.com/57354058/192750042-ac8cef17-a461-424f-9905-fdd5ca8edd15.png" /></a>
   <a href="https://start.spring.io/"><img align="left" alt="springboot" title="SpringBoot" width="21px" src="https://image.pngaaa.com/500/2459500-middle.png" /></a>
   <a href="https://www.php.net/"><img align="left" alt="Php" title="Php" width="21px" src="https://www.php.net/images/logos/new-php-logo.png" /></a>
   <a href="https://www.w3schools.com/sql/"><img align="left" alt="SQL" title="SQL" width="21px" src="https://www.clipartmax.com/png/middle/200-2001382_…-sometimes-very-sql-programming-language-logo.png" /></a>
-  <a href="https://dart.dev/"><img align="left" alt="Dart" title="Dart" width="21px" src="https://w7.pngwing.com/pngs/649/174/png-transparen…utter-android-darts-text-logo-web-application.png" /></a>
+  <a href="https://dart.dev/"><img align="left" alt="Dart" title="Dart" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/900px-Dart-logo.png" /></a>
   <br>
   <br>
+</p>
   
 ### Github Statistic
 <p align="left">
