@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 -->
 ### Tech Stack
 <p align="center">
-  <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://user-images.githubusercontent.com/57354058/192750042-ac8cef17-a461-424f-9905-fdd5ca8edd15.png" /></a>
-  <a href="https://start.spring.io/"><img align="left" alt="springboot" title="SpringBoot" width="21px" src="https://image.pngaaa.com/500/2459500-middle.png" /></a>
-  <a href="https://www.php.net/"><img align="left" alt="Php" title="Php" width="21px" src="https://www.php.net/images/logos/new-php-logo.png" /></a>
-  <a href="https://www.w3schools.com/sql/"><img align="left" alt="SQL" title="SQL" width="21px" src="https://www.clipartmax.com/png/middle/200-2001382_…-sometimes-very-sql-programming-language-logo.png" /></a>
-  <a href="https://dart.dev/"><img align="left" alt="Dart" title="Dart" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/900px-Dart-logo.png" /></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/sql/"><img align="left" alt="SQL" title="SQL" width="30px" src="https://www.clipartmax.com/png/middle/200-2001382_…-sometimes-very-sql-programming-language-logo.png" /></a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <br>
   <br>
 </p>
